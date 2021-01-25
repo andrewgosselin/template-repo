@@ -1,4 +1,5 @@
-<p align="center"><img width=12.5% src="https://cloud.cyrexag.com/cdn/branding/logo.png"></p>
+![alt text](https://cloud.cyrexag.com/cdn/branding/logo.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![Build Status](https://travis-ci.org/anfederico/Clairvoyant.svg?branch=master)](https://travis-ci.org/anfederico/Clairvoyant)
