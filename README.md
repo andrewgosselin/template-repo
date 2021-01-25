@@ -1,4 +1,4 @@
-![alt text](https://cloud.cyrexag.com/cdn/branding/logo.png)
+<p align="center"><img width=12.5% src="https://i.ibb.co/K6RrTjc/logo.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
